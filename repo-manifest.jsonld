@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-simple-menu/commit/beb79553331e12fac2dabdff2504c46ff36fb091",
       "git:hexsha": "beb79553331e12fac2dabdff2504c46ff36fb091",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.1.4"
     },
     {
